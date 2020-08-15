@@ -8,3 +8,6 @@ I used sendgrid mail to send mails.<br/>
 I used bcryptjs to encrypt sensitive data.<br/>
 <br/>
 I made this following this node js course https://www.udemy.com/course/the-complete-nodejs-developer-course-2/<br/>
+
+### Find the front end here
+https://github.com/kamnakis/task-manager
