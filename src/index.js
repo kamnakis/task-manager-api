@@ -8,7 +8,7 @@ const taskRouter = require('./routers/task')
 const app = express()
 const port = process.env.PORT
 app.use(cors({
-    origin: 'https://kamnakis.github.io/task-manager/',
+    origin: 'https://kamnakis.github.io',
     optionsSuccessStatus: 200
 }))
 app.use(express.json())
